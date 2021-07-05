@@ -6,5 +6,5 @@ excerpt: 'We investigate a repeated two-player game setting where the column pla
 date: 2021-05-03
 venue:  Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems
 paperurl: 
-citation: 'Nicholas Bishop, Le Cong Dinh, Long Tran-Thanh. "How to Guide a Non-Cooperative Learner to Cooperate: Exploiting No-Regret Algorithms in System Design". In: <i> Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems, 2021 </i>
+citation: 'Nicholas Bishop, Le Cong Dinh, Long Tran-Thanh. "How to Guide a Non-Cooperative Learner to Cooperate: Exploiting No-Regret Algorithms in System Design". In: <i> Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems, 2021 </i>'
 ---
