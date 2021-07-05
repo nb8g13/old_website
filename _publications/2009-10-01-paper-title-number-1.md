@@ -3,10 +3,10 @@ title: "Adversarial Blocking Bandits"
 collection: publications
 permalink: /publication/Adversarial-Blocking-Bandits
 excerpt: 'We consider a general adversarial multi-armed blocking bandit setting where each played arm can be blocked (unavailable) for some time periods and the reward per arm is given at each time period adversarially without obeying any distribution. '
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2020-12-06
+venue: 'Nicholas Bishop, Hau Chan, Debmalya Mandal, Long Tran-Thanh. Adversarial Blocking Bandits in Advances in  Neural  Information  Processing  Systems  33 (NeurIPS 2020), 2020 '
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: ''
 ---
 We consider a general adversarial multi-armed blocking bandit setting where each played arm can be blocked (unavailable) for some time periods and the reward per arm is given at each time period adversarially without obeying any distribution. The setting models scenarios of allocating scarce limited supplies (e.g., arms) where the supplies replenish and can be reused only after certain time periods. We first show that, in the optimization setting, when the blocking durations and rewards are known in advance, finding an optimal policy (e.g., determining which arm per round) that maximises the cumulative reward is strongly NP-hard, eliminating the possibility of a fully polynomial-time approximation scheme (FPTAS) for the problem unless P = NP. To complement our result, we show that a greedy algorithm that plays the best available arm at each round provides an approximation guarantee that depends on the blocking durations and the path variance of the rewards. In the bandit setting, when the blocking durations and rewards are not known, we design two algorithms, RGA and RGA-META, for the case of bounded duration an path variation. In particular, when the variation budget BT is known in advance, RGA can achieve O(\sqrt{T(2\tilde{D}+K)B{T}}) dynamic approximate regret. On the other hand, when B_T is not known, we show that the dynamic approximate regret of RGA-META is at most O((K+\tilde{D})^{1/4}\tilde{B}^{1/2}T^{3/4}) where \tilde{B} is the maximal path variation budget within each batch of RGA-META (which is provably in order of o(\sqrt{T}). We also prove that if either the variation budget or the maximal blocking duration is unbounded, the approximate regret will be at least Theta(T). We also show that the regret upper bound of RGA is tight if the blocking durations are bounded above by an order of O(1).
 
