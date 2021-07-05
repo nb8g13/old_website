@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Nicholas Bishop"
 title_separator          : "-"
-name                     : "Nicholas Bishop"
-description              : "PhD student at the Univeristy of Southampton studying problems at the intersection of Machine Learning and Mechanism Design"
+name                     : &name  "Nicholas Bishop"
+description              : &description "PhD student at the Univeristy of Southampton"
 url                      : https://nb8g13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nb8g13/nb8g13.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @NickBishop5
+  username               : &twitter "NickBishop5"
 facebook:
   username               :
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@NickBishop5"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
