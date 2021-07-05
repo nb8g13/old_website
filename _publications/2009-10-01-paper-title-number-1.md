@@ -1,12 +1,12 @@
 ---
 title: "Adversarial Blocking Bandits"
 collection: publications
-permalink: 'https://papers.nips.cc/paper/2020/file/5cc3749a6e56ef6d656735dff9176074-Paper.pdf'
+permalink: 
 excerpt: 'We consider a general adversarial multi-armed blocking bandit setting where each played arm can be blocked (unavailable) for some time periods and the reward per arm is given at each time period adversarially without obeying any distribution. The setting models scenarios of allocating scarce limited supplies (e.g., arms) where the supplies replenish and can be reused only after certain time periods.'
 date: 2020-12-06
 venue:  'NeurIPS 2020'
-paperurl: 
-citation: 'Nicholas Bishop, Hau Chan, Debmalya Mandal, Long Tran-Thanh. "Adversairal Blocking Bandits". In: Advances  in  Neural  Information  Processing  Systems  33 (NeurIPS 2020)'
+paperurl: 'https://papers.nips.cc/paper/2020/file/5cc3749a6e56ef6d656735dff9176074-Paper.pdf'
+citation: 'Nicholas Bishop, Hau Chan, Debmalya Mandal, Long Tran-Thanh. "Adversairal Blocking Bandits". In: <i> Advances  in  Neural  Information  Processing  Systems  33 (NeurIPS 2020)</i>'
 ---
 
 
