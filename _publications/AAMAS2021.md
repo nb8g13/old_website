@@ -1,4 +1,3 @@
-
 ---
 title: "How to Guide a Non-Cooperative Learner to Cooperate: Exploiting No-Regret Algorithms in System Design"
 collection: publications
