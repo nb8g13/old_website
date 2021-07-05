@@ -6,7 +6,7 @@ excerpt: 'We consider a general adversarial multi-armed blocking bandit setting 
 date: 2020-12-06
 venue:  'NeurIPS 2020'
 paperurl: 
-citation: 'Nicholas Bishop, Hau Chan, Debmalya Mandal, Long Tran-Thanh. "Adversairal Blocking Bandits". In: dvances  in  Neural  Information  Processing  Systems  33 (NeurIPS 2020)'
+citation: 'Nicholas Bishop, Hau Chan, Debmalya Mandal, Long Tran-Thanh. "Adversairal Blocking Bandits". In: Advances  in  Neural  Information  Processing  Systems  33 (NeurIPS 2020)'
 ---
 
 
