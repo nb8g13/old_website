@@ -8,5 +8,5 @@ specific predictions for their data. '
 date: 2020-12-06
 venue:  Advances  in  Neural  Information  Processing  Systems  33
 paperurl: 
-citation: 'Nicholas Bishop, Long Tran-Thanh, Enrico Gerding. "Adversarial Blocking Bandits". In: <i> Advances  in  Neural  Information  Processing  Systems  33 (NeurIPS 2020)</i>'
+citation: 'Nicholas Bishop, Long Tran-Thanh, Enrico Gerding. "Optimal Learning from Verified Training Data". In: <i> Advances  in  Neural  Information  Processing  Systems  33 (NeurIPS 2020)</i>'
 ---
